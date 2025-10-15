@@ -9,7 +9,7 @@
 
 Hello stranger!
 
-Here you can find slides & material related to the talks I've given online and around the world:
+Here you can find slides & material related to some of the talks I've given, both online and around the world:
 
 - [NDC Copenhagen 2025](talks/20250910-ndc-copenhagen-hybrid-caching.pdf)
 - [NTK Conf 2025](talks/20250922-ntk-hybrid-caching.pdf)
