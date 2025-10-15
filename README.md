@@ -28,7 +28,7 @@ Maybe you'll find find them useful.
 
 
 
-### NDC Copenhagen (2025)
+### 📺 NDC Copenhagen (2025)
 
 I've finally been at an NDC conference, and what can I say? That has been a spectacular experience.
 
@@ -38,7 +38,7 @@ Video should be available later, but for now: slides!
 
 <div align="center">
 
-![NTK 2025](images/ndc-copenhagen-2025.jpg)
+![NTK 2025](images/ndc-copenhagen-2025-small.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ Video should be available later, but for now: slides!
 
 
 
-### NTK (2025)
+### 📺 NTK (2025)
 
 The fine folks at NTK in Slovenia have been so nice to invite me for a session on hybrid caching.
 
@@ -56,7 +56,7 @@ No video this time, but slides are available.
 
 <div align="center">
 
-![NTK 2025](images/ntk-2025.jpg)
+![NTK 2025](images/ntk-2025-small.jpg)
 
 </div>
 
@@ -64,7 +64,7 @@ No video this time, but slides are available.
 
 
 
-### On .NET (2025)
+### 📺 On .NET (2025)
 
 Here we go again: [On .NET](https://learn.microsoft.com/en-us/shows/on-net/) hosted me for a "one year later" episode.
 
@@ -76,14 +76,14 @@ Spoiler: a lot!
 
 <div align="center">
 
-[![On .NET Talk 2025](images/on-dotnet-2025.jpg)](https://www.youtube.com/watch?v=3eZCtQSq9g4)
+[![On .NET Talk 2025](images/on-dotnet-2025-small.jpg)](https://www.youtube.com/watch?v=3eZCtQSq9g4)
 
 </div>
 
 
 
 
-### On .NET (2024)
+### 📺 On .NET (2024)
 
 The fine folks at [On .NET](https://learn.microsoft.com/en-us/shows/on-net/) have been kind enough to invite me on the show and listen to me mumbling random caching stuff.
 
@@ -91,14 +91,14 @@ This is a very good introduction on the general approach and features of FusionC
 
 <div align="center">
 
-[![On .NET Talk](images/on-dotnet.jpg)](https://www.youtube.com/watch?v=hCswI2goi7s)
+[![On .NET Talk](images/on-dotnet-small.jpg)](https://www.youtube.com/watch?v=hCswI2goi7s)
 
 </div>
 
 
 
 
-### Open At Microsoft (2024)
+### 📺 Open At Microsoft (2024)
 
 In this quick talk with [Davide Mauri](https://twitter.com/mauridb) we introduced FusionCache to the audience of Open at Microsoft.
 
@@ -106,14 +106,14 @@ Quick and to the point.
 
 <div align="center">
 
-[![Open At Microsoft Talk](images/open-at-microsoft.jpg)](https://www.youtube.com/watch?v=wGKSNqxN4KE)
+[![Open At Microsoft Talk](images/open-at-microsoft-small.jpg)](https://www.youtube.com/watch?v=wGKSNqxN4KE)
 
 </div>
 
 
 
 
-### Data Exposed (2022)
+### 📺 Data Exposed (2022)
 
 The great [Anna Hoffman](https://twitter.com/analyticanna) has been so nice to listen to me mumble random stuff about caching on [Data Exposed](https://learn.microsoft.com/en-us/shows/data-exposed/caching-made-easy-in-azure-sql-db-with-fusioncache-data-exposed).
 
@@ -121,7 +121,7 @@ Thanks Anna!
 
 <div align="center">
 
-[![Data Exposed Talk](images/data-exposed.jpg)](https://www.youtube.com/watch?v=V2fCUoJgVAo)
+[![Data Exposed Talk](images/data-exposed-small.jpg)](https://www.youtube.com/watch?v=V2fCUoJgVAo)
 
 </div>
 
@@ -138,33 +138,33 @@ Thanks Anna!
 
 
 
-### Live Coding - Alla Scoperta Di FusionCache (2025)
+### 📺 Live Coding - Alla Scoperta Di FusionCache (2025)
 
 Marco Minerva invited me for a talk with his viewers on all things FusionCache.
 
 <div align="center">
 
-[![Live Coding - Alla Scoperta Di FusionCache Talk](images/live-coding-alla-scoperta-di-fusioncache.jpg)](https://www.youtube.com/live/tj6w4V_cGRo)
+[![Live Coding - Alla Scoperta Di FusionCache Talk](images/live-coding-alla-scoperta-di-fusioncache-small.jpg)](https://www.youtube.com/live/tj6w4V_cGRo)
 
 </div>
 
 
 
 
-### DotNetConf Italia (2024)
+### 📺 DotNetConf Italia (2024)
 
-I've been lucky enough to be selected for a session at the italian version of DotNetConf, where I talked about, you guessed it, hybrid caching in .NET
+I've been lucky enough to be selected for a session at the italian version of DotNetConf, where I talked about hybrid caching in .NET, as you may have already guessed.
 
 <div align="center">
 
-[![DotNetConf Italia 2024](images/dotnetconf-italia.jpg)](https://www.improove.tech/videos/3593/Hybrid-Caching-in-NET)
+[![DotNetConf Italia 2024](images/dotnetconf-italia-small.jpg)](https://www.improove.tech/videos/3593/Hybrid-Caching-in-NET)
 
 </div>
 
 
 
 
-### Continuous Delivery (2024)
+### 📺 Continuous Delivery (2024)
 
 The fine folks at Continuous Delivery (by [SparkFabrik](https://www.sparkfabrik.com/it/)) invited me to talk about my experience with open source in general, and FusionCache in particular.
 
@@ -172,14 +172,14 @@ Oh, and also about Genziana and arrosticini 🙂
 
 <div align="center">
 
-[![Continuous Delivery Talk](images/continuous-delivery.jpg)](https://www.youtube.com/watch?v=E6PBkalmUn8)
+[![Continuous Delivery Talk](images/continuous-delivery-small.jpg)](https://www.youtube.com/watch?v=E6PBkalmUn8)
 
 </div>
 
 
 
 
-### Spike Time (2024)
+### 📺 Spike Time (2024)
 
 [Alberto Mori](https://twitter.com/albx87) invited me on his Spike Time, where I've been able to see him move his first steps with FusionCache, live, unfiltered. A really nice experience that also ended up making FusionCache even better.
 
@@ -187,14 +187,14 @@ Thanks Alberto!
 
 <div align="center">
 
-[![Spike Time Talk](images/spike-time.jpg)](https://www.youtube.com/watch?v=hvcHIEXzaWM)
+[![Spike Time Talk](images/spike-time-small.jpg)](https://www.youtube.com/watch?v=hvcHIEXzaWM)
 
 </div>
 
 
 
 
-### Small Talks (2022)
+### 📺 Small Talks (2022)
 
 The great [Roberto Messora](https://twitter.com/robymes) invited me to UgiDotNet's show Small Talks: of course the subject was FusionCache and caching in general.
 
@@ -202,14 +202,14 @@ Thanks Roberto!
 
 <div align="center">
 
-[![Small Talks Talk](images/small-talks.jpg)](https://www.youtube.com/watch?v=DovOX0zIuJ8)
+[![Small Talks Talk](images/small-talks-small.jpg)](https://www.youtube.com/watch?v=DovOX0zIuJ8)
 
 </div>
 
 
 
 
-### dotNET{podcast} (2022)
+### 📺 dotNET{podcast} (2022)
 
 The awesome [Mauro Servienti](https://twitter.com/mauroservienti) invited me to his podcast to talk about FusionCache.
 
@@ -217,7 +217,7 @@ It has been a really nice talk about all things caching, thanks Mauro!
 
 <div align="center">
 
-[![dotNET{podcast} Talk](images/dotnet-podcast.jpg)](https://www.youtube.com/watch?v=TdPFULPDq-Y)
+[![dotNET{podcast} Talk](images/dotnet-podcast-small.jpg)](https://www.youtube.com/watch?v=TdPFULPDq-Y)
 
 </div>
 
