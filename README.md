@@ -251,11 +251,11 @@ If you are interested in all things caching, I published [a course](https://dome
 
 <div align="center">
 
-[![Caching Course on Dometrain](dometrain-getting-started-cover.png)](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti)
+[![Caching Course on Dometrain](images/dometrain-getting-started-cover.png)](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti)
 
 </div>
 
-If you like the FusionCache docs, you may like it too.
+If you enjoyed my talks or like the FusionCache docs, you may like it too.
 
 But mind you, it's not just about FusionCache but about caching as a whole: we'll go from the very foundations to pretty advanced topics and scenarios. We'll cover performance, robustness, resiliency and we'll see different real-world problems and, most importantly, solutions for them.
 
