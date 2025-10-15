@@ -1,11 +1,10 @@
+# Hello stranger!
+
 <div align="center">
 
   ![Jody pointing at a cache in particular](jody-pointing-at-a-cache-in-particular-medium.jpg)
 
-
 </div>
-
-# Hello stranger!
 
 ## 📺 My Talks
 
