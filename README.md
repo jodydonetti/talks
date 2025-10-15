@@ -15,9 +15,6 @@ Here you can find some of them, either in video form, as slides or both.
 
 Maybe you'll find find them useful.
 
-- [NDC Copenhagen 2025](talks/20250910-ndc-copenhagen-hybrid-caching.pdf)
-- [On .NET 2025](talks/20250421-on-dotnet-every-cache-a-painting-revisited.pdf)
-
 <br/>
 
 <hr>
