@@ -5,9 +5,9 @@
 
 </div>
 
-# 📺 My Talks
+# Hello stranger!
 
-Hello stranger!
+## 📺 My Talks
 
 Along the years I've been lucky enough to be invited to some conferences, shows or podcasts both online and around the world, of course to talk about all things caching and FusionCache.
 
@@ -19,10 +19,12 @@ Maybe you'll find find them useful.
 
 <hr>
 
-<br/>
+<div align="center">
 
+### English Language
 
-## English Language
+</div>
+
 
 <br/>
 <br/>
@@ -58,7 +60,9 @@ No video this time, but slides are available.
 
 - [🔗 slides](talks/20250922-ntk-hybrid-caching.pdf)
 
-<hr/>
+<br/>
+<br/>
+
 
 ### 📺 On .NET (2025)
 
@@ -79,6 +83,7 @@ Spoiler: a lot!
 
 <br/>
 <br/>
+
 
 ### 📺 On .NET (2024)
 
@@ -114,6 +119,7 @@ Quick and to the point.
 <br/>
 <br/>
 
+
 ### 📺 Data Exposed (2022)
 
 <div align="center">
@@ -129,16 +135,18 @@ Thanks Anna!
 - [🔗 video](https://www.youtube.com/watch?v=V2fCUoJgVAo)
 
 <br/>
-<br/>
 
 <hr>
 
+<div align="center">
+
+### Italian Language 🤌
+
+</div>
+
+
 <br/>
 <br/>
-
-## Italian Language 🤌
-
-
 
 
 ### 📺 Live Coding - Alla Scoperta Di FusionCache (2025)
@@ -149,7 +157,7 @@ Thanks Anna!
 
 </div>
 
-Marco Minerva invited me for a talk with his viewers on all things FusionCache.
+[Marco Minerva](https://x.com/marcominerva) invited me for a talk with his viewers on all things FusionCache.
 
 - [🔗 video](https://www.youtube.com/live/tj6w4V_cGRo)
 
@@ -236,3 +244,19 @@ It has been a really nice talk about all things caching, thanks Mauro!
 
 - [🔗 video](https://www.youtube.com/watch?v=TdPFULPDq-Y)
 
+
+## 🧑‍🏫 Courses
+
+If you are interested in all things caching, I published [a course](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti) on Dometrain:
+
+<div align="center">
+
+[![Caching Course on Dometrain](dometrain-getting-started-cover.png)](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti)
+
+</div>
+
+If you like the FusionCache docs, you may like it too.
+
+But mind you, it's not just about FusionCache but about caching as a whole: we'll go from the very foundations to pretty advanced topics and scenarios. We'll cover performance, robustness, resiliency and we'll see different real-world problems and, most importantly, solutions for them.
+
+I tried condensing 20+ years dealing with caching in one place, all in an approachable way.
