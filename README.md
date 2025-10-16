@@ -36,7 +36,7 @@ Maybe you'll find find them useful.
 
 </div>
 
-I've finally been at an NDC conference, and what can I say? That has been a spectacular experience.
+I've finally been at an NDC conference, and what can I say? What a spectacular experience.
 
 Video should be available later, but for now: slides!
 
