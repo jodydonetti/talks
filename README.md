@@ -6,7 +6,7 @@
 
 </div>
 
-## 📺 My Talks
+## 📺 Talks
 
 Along the years I've been lucky enough to be invited to some conferences, shows or podcasts both online and around the world, of course to talk about all things caching and FusionCache.
 
