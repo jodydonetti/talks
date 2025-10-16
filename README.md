@@ -74,7 +74,7 @@ No video this time, but slides are available.
 Here we go again: [On .NET](https://learn.microsoft.com/en-us/shows/on-net/) hosted me for a "one year later" episode.
 
 I highlighted what happened since last year's episode, both in general in the world of .NET caching and in particular with FusionCache.
-
+<br/>
 Spoiler: a lot!
 
 - [🔗 video](https://www.youtube.com/watch?v=3eZCtQSq9g4)
