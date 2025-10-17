@@ -32,7 +32,7 @@ Maybe you'll find find them useful.
 
 <div align="center">
 
-  ![NDC Copenhagen 2025](images/ndc-copenhagen-2025-small.jpg)
+  ![NDC Copenhagen 2025](images/ndc-copenhagen-2025.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ Video should be available later, but for now: slides!
 
 <div align="center">
 
-  ![NTK 2025](images/ntk-2025-small.jpg)
+  ![NTK 2025](images/ntk-2025.jpg)
 
 </div>
 
@@ -67,7 +67,7 @@ No video this time, but slides are available.
 
 <div align="center">
 
-  [![On .NET Talk 2025](images/on-dotnet-2025-small.jpg)](https://www.youtube.com/watch?v=3eZCtQSq9g4)
+  [![On .NET Talk 2025](images/on-dotnet-2025.jpg)](https://www.youtube.com/watch?v=3eZCtQSq9g4)
 
 </div>
 
@@ -88,7 +88,7 @@ Spoiler: a lot!
 
 <div align="center">
 
-  [![On .NET Talk](images/on-dotnet-small.jpg)](https://www.youtube.com/watch?v=hCswI2goi7s)
+  [![On .NET Talk](images/on-dotnet.jpg)](https://www.youtube.com/watch?v=hCswI2goi7s)
 
 </div>
 
@@ -105,7 +105,7 @@ This is a very good introduction on the general approach and features of FusionC
 
 <div align="center">
 
-  [![Open At Microsoft Talk](images/open-at-microsoft-small.jpg)](https://www.youtube.com/watch?v=wGKSNqxN4KE)
+  [![Open At Microsoft Talk](images/open-at-microsoft.jpg)](https://www.youtube.com/watch?v=wGKSNqxN4KE)
 
 </div>
 
@@ -123,7 +123,7 @@ Quick and to the point.
 
 <div align="center">
 
-  [![Data Exposed Talk](images/data-exposed-small.jpg)](https://www.youtube.com/watch?v=V2fCUoJgVAo)
+  [![Data Exposed Talk](images/data-exposed.jpg)](https://www.youtube.com/watch?v=V2fCUoJgVAo)
 
 </div>
 
@@ -152,7 +152,7 @@ Thanks Anna!
 
 <div align="center">
 
-  [![Live Coding - Alla Scoperta Di FusionCache Talk](images/live-coding-alla-scoperta-di-fusioncache-small.jpg)](https://www.youtube.com/live/tj6w4V_cGRo)
+  [![Live Coding - Alla Scoperta Di FusionCache Talk](images/live-coding-alla-scoperta-di-fusioncache.jpg)](https://www.youtube.com/live/tj6w4V_cGRo)
 
 </div>
 
@@ -167,7 +167,7 @@ Thanks Anna!
 
 <div align="center">
 
-  [![DotNetConf Italia 2024](images/dotnetconf-italia-small.jpg)](https://www.improove.tech/videos/3593/Hybrid-Caching-in-NET)
+  [![DotNetConf Italia 2024](images/dotnetconf-italia.jpg)](https://www.improove.tech/videos/3593/Hybrid-Caching-in-NET)
 
 </div>
 
@@ -182,7 +182,7 @@ I've been lucky enough to be selected for a session at the italian version of Do
 
 <div align="center">
 
-  [![Continuous Delivery Talk](images/continuous-delivery-small.jpg)](https://www.youtube.com/watch?v=E6PBkalmUn8)
+  [![Continuous Delivery Talk](images/continuous-delivery.jpg)](https://www.youtube.com/watch?v=E6PBkalmUn8)
 
 </div>
 
@@ -199,7 +199,7 @@ Oh, and also about Genziana and arrosticini 🙂
 
 <div align="center">
 
-  [![Spike Time Talk](images/spike-time-small.jpg)](https://www.youtube.com/watch?v=hvcHIEXzaWM)
+  [![Spike Time Talk](images/spike-time.jpg)](https://www.youtube.com/watch?v=hvcHIEXzaWM)
 
 </div>
 
@@ -216,7 +216,7 @@ Thanks Alberto!
 
 <div align="center">
 
-[![Small Talks Talk](images/small-talks-small.jpg)](https://www.youtube.com/watch?v=DovOX0zIuJ8)
+[![Small Talks Talk](images/small-talks.jpg)](https://www.youtube.com/watch?v=DovOX0zIuJ8)
 
 </div>
 
@@ -233,7 +233,7 @@ Thanks Roberto!
 
 <div align="center">
 
-[![dotNET{podcast} Talk](images/dotnet-podcast-small.jpg)](https://www.youtube.com/watch?v=TdPFULPDq-Y)
+[![dotNET{podcast} Talk](images/dotnet-podcast.jpg)](https://www.youtube.com/watch?v=TdPFULPDq-Y)
 
 </div>
 
