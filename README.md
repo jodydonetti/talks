@@ -40,6 +40,7 @@ I've finally been at an NDC conference, and what can I say? What a spectacular e
 
 Video should be available later, but for now: slides!
 
+- [🔗 video](https://www.youtube.com/watch?v=kdo70GCpk6A)
 - [🔗 slides](talks/20250910-ndc-copenhagen-hybrid-caching.pdf)
 
 <br/>
