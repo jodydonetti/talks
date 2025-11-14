@@ -32,13 +32,13 @@ Maybe you'll find find them useful.
 
 <div align="center">
 
-  ![NDC Copenhagen 2025](images/ndc-copenhagen-2025.jpg)
+  [![NDC Copenhagen 2025](images/ndc-copenhagen-2025.jpg)](https://www.youtube.com/watch?v=kdo70GCpk6A)
 
 </div>
 
 I've finally been at an NDC conference, and what can I say? What a spectacular experience.
 
-Video should be available later, but for now: slides!
+Oh, and yes: on stage it was quite hot 😅
 
 - [🔗 video](https://www.youtube.com/watch?v=kdo70GCpk6A)
 - [🔗 slides](talks/20250910-ndc-copenhagen-hybrid-caching.pdf)
@@ -50,7 +50,7 @@ Video should be available later, but for now: slides!
 
 <div align="center">
 
-  ![NTK 2025](images/ntk-2025.jpg)
+  [![NTK 2025](images/ntk-2025.jpg)](talks/20250922-ntk-hybrid-caching.pdf)
 
 </div>
 
