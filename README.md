@@ -149,6 +149,40 @@ Thanks Anna!
 <br/>
 
 
+### 📺 DotNetConf Liguria - Part 2 (2025)
+
+<div align="center">
+
+  [![DotNetConf Liguria - Part 2 Talk](images/dotnetconf-liguria-2025-part2.png)](talks/20251212-dotnetconf-liguria-part-2.pdf)
+
+</div>
+
+The fine folks at DotNetConf Liguria have been so nice to invite me for a back-to-back combo of 2 sessions, of course on hybrid caching and FusionCache.
+
+No video, but slides are available:
+
+- [🔗 slides](talks/20251212-dotnetconf-liguria-part-2.pdf)
+
+<br/>
+<br/>
+
+### 📺 DotNetConf Liguria - Part 1 (2025)
+
+<div align="center">
+
+  [![DotNetConf Liguria - Part 1 Talk](images/dotnetconf-liguria-2025-part1.png)](talks/20251212-dotnetconf-liguria-part-1.pdf)
+
+</div>
+
+The fine folks at DotNetConf Liguria have been so nice to invite me for a back-to-back combo of 2 sessions, of course on hybrid caching and FusionCache.
+
+No video, but slides are available:
+
+- [🔗 slides](talks/20251212-dotnetconf-liguria-part-1.pdf)
+
+<br/>
+<br/>
+
 ### 📺 Live Coding - Alla Scoperta Di FusionCache (2025)
 
 <div align="center">
